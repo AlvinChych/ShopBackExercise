@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShopBack Exercise</string>
+    <string name="todo">TODO</string>
+    <string name="users">Users</string>
+    <string name="x">X</string>
+    <string name="staff">STAFF</string>
+</resources>
